@@ -1,0 +1,62 @@
+{
+  "section": "business",
+  "subsection": "",
+  "title": "China Invested $1 Trillion to Gain Global Influence. Can That Go On?",
+  "abstract": "Xi Jinping enhanced China’s sway in the world by lending money for infrastructure. Now he’s collecting debts and rethinking his signature aid initiative.",
+  "url": "https://www.nytimes.com/2023/10/16/business/chinas-belt-and-road-initiative-bri.html",
+  "uri": "nyt://article/99f919d4-08b0-5143-9f07-9927a3b2f152",
+  "byline": "By Keith Bradsher",
+  "item_type": "Article",
+  "updated_date": "2023-10-16T23:48:30-04:00",
+  "created_date": "2023-10-16T22:32:42-04:00",
+  "published_date": "2023-10-16T22:32:42-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+    "Infrastructure (Public Works)",
+    "Foreign Investments",
+    "International Relations",
+    "Developing Countries",
+    "Economic Conditions and Trends"
+  ],
+  "org_facet": [],
+  "per_facet": [
+    "Xi Jinping"
+  ],
+  "geo_facet": [
+    "China"
+  ],
+  "multimedia": [
+    {
+      "url": "https://static01.nyt.com/images/2023/10/16/multimedia/00China-BRI-01-cjkb/00China-BRI-01-cjkb-superJumbo.jpg",
+      "format": "Super Jumbo",
+      "height": 1365,
+      "width": 2048,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "High-speed trains at a main construction site in Indonesia. ",
+      "copyright": "Ulet Ifansasti for The New York Times"
+    },
+    {
+      "url": "https://static01.nyt.com/images/2023/10/16/multimedia/00China-BRI-01-cjkb/00China-BRI-01-cjkb-threeByTwoSmallAt2X.jpg",
+      "format": "threeByTwoSmallAt2X",
+      "height": 400,
+      "width": 600,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "High-speed trains at a main construction site in Indonesia. ",
+      "copyright": "Ulet Ifansasti for The New York Times"
+    },
+    {
+      "url": "https://static01.nyt.com/images/2023/10/16/multimedia/00China-BRI-01-cjkb/00China-BRI-01-cjkb-thumbLarge.jpg",
+      "format": "Large Thumbnail",
+      "height": 150,
+      "width": 150,
+      "type": "image",
+      "subtype": "photo",
+      "caption": "High-speed trains at a main construction site in Indonesia. ",
+      "copyright": "Ulet Ifansasti for The New York Times"
+    }
+  ],
+  "short_url": ""
+}

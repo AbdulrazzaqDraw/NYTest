@@ -1,0 +1,330 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2023 The New York Times Company. All Rights Reserved.",
+  "section": "home",
+  "last_updated": "2023-10-17T07:58:50-04:00",
+  "num_results": 27,
+  "results": [
+    {
+      "section": "world",
+      "subsection": "middleeast",
+      "title": "Netanyahu Chose Limited Strikes Until Now. This Is His First All-Out War.",
+      "abstract": "In his 15 years as Israel’s prime minister, Benjamin Netanyahu has been seen as risk-averse, avoiding open-ended military engagements and peace initiatives.",
+      "url": "https://www.nytimes.com/2023/10/17/world/middleeast/israel-netanyahu-gaza.html",
+      "uri": "nyt://article/25cb3dfb-aeb0-5da2-a8ac-c012f82de83c",
+      "byline": "By Mark Landler",
+      "item_type": "Article",
+      "updated_date": "2023-10-17T04:02:31-04:00",
+      "created_date": "2023-10-17T00:01:36-04:00",
+      "published_date": "2023-10-17T00:01:36-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Israel-Gaza War (2023- )",
+        "Palestinians",
+        "War and Armed Conflicts",
+        "Defense and Military Forces"
+      ],
+      "org_facet": [
+        "Hamas"
+      ],
+      "per_facet": [
+        "Netanyahu, Benjamin"
+      ],
+      "geo_facet": [
+        "Israel",
+        "Gaza Strip"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/10/15/multimedia/15Israel-Netanyahu-wfkm/15Israel-Netanyahu-wfkm-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prime Minister Benjamin Netanyahu of Israel on Thursday in Tel Aviv.",
+          "copyright": "Pool photo by Jacquelyn Martin"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/10/15/multimedia/15Israel-Netanyahu-wfkm/15Israel-Netanyahu-wfkm-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prime Minister Benjamin Netanyahu of Israel on Thursday in Tel Aviv.",
+          "copyright": "Pool photo by Jacquelyn Martin"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/10/15/multimedia/15Israel-Netanyahu-wfkm/15Israel-Netanyahu-wfkm-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prime Minister Benjamin Netanyahu of Israel on Thursday in Tel Aviv.",
+          "copyright": "Pool photo by Jacquelyn Martin"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Biden Faces Risks in Wartime Visit to Israel",
+      "abstract": "A presidential trip to Israel at such a critical moment poses enormous challenges for the White House, in terms of both politics and security.",
+      "url": "https://www.nytimes.com/2023/10/16/us/politics/biden-israel-trip.html",
+      "uri": "nyt://article/d8a93068-0ce5-5472-a710-378b07261305",
+      "byline": "By David E. Sanger and Peter Baker",
+      "item_type": "Article",
+      "updated_date": "2023-10-16T22:51:20-04:00",
+      "created_date": "2023-10-16T14:31:35-04:00",
+      "published_date": "2023-10-16T14:31:35-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Israel-Gaza War (2023- )",
+        "United States Politics and Government",
+        "United States International Relations"
+      ],
+      "org_facet": [
+        "Hamas"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Netanyahu, Benjamin"
+      ],
+      "geo_facet": [
+        "Israel"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/10/16/multimedia/16dc-prexy-1-zcpj/16dc-prexy-1-zcpj-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prime Minister Benjamin Netanyahu extended an invitation to President Biden over the weekend.",
+          "copyright": "Kent Nishimura for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/10/16/multimedia/16dc-prexy-1-zcpj/16dc-prexy-1-zcpj-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prime Minister Benjamin Netanyahu extended an invitation to President Biden over the weekend.",
+          "copyright": "Kent Nishimura for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/10/16/multimedia/16dc-prexy-1-zcpj/16dc-prexy-1-zcpj-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prime Minister Benjamin Netanyahu extended an invitation to President Biden over the weekend.",
+          "copyright": "Kent Nishimura for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "podcasts",
+      "subsection": "",
+      "title": "Biden to Visit Israel, and More",
+      "abstract": "Plus, a Muslim boy is killed in Illinois and China’s Belt and Road Initiative is changing shape.",
+      "url": "https://www.nytimes.com/2023/10/17/podcasts/headlines-nyt-audio-app.html",
+      "uri": "nyt://article/fe61e75a-0fac-5600-9698-532899bff33c",
+      "byline": "By New York Times Audio",
+      "item_type": "Article",
+      "updated_date": "2023-10-17T05:45:07-04:00",
+      "created_date": "2023-10-17T05:45:07-04:00",
+      "published_date": "2023-10-17T05:45:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Israel-Gaza War (2023- )",
+        "Murders, Attempted Murders and Homicides",
+        "Muslim Americans",
+        "Muslims and Islam",
+        "United States Politics and Government",
+        "Defense and Military Forces",
+        "Foreign Investments"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "China",
+        "Gaza Strip",
+        "Illinois",
+        "Israel"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/10/17/multimedia/17HL-gaza-phones-lmkf/17HL-gaza-phones-lmkf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1142,
+          "width": 1712,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Palestinians who left the northern Gaza Strip making their way south, near Khan Younis. Many are fleeing ahead of a possible Israeli invasion and amid airstrikes.",
+          "copyright": "Samar Abu Elouf for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/10/17/multimedia/17HL-gaza-phones-lmkf/17HL-gaza-phones-lmkf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Palestinians who left the northern Gaza Strip making their way south, near Khan Younis. Many are fleeing ahead of a possible Israeli invasion and amid airstrikes.",
+          "copyright": "Samar Abu Elouf for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/10/17/multimedia/17HL-gaza-phones-lmkf/17HL-gaza-phones-lmkf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Palestinians who left the northern Gaza Strip making their way south, near Khan Younis. Many are fleeing ahead of a possible Israeli invasion and amid airstrikes.",
+          "copyright": "Samar Abu Elouf for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "world",
+      "subsection": "asia",
+      "title": "Putin Visits China to Bolster Ties With ‘My Friend,’ Xi",
+      "abstract": "The Russian leader is likely to push for more economic support when he meets with his Chinese counterpart in Beijing.",
+      "url": "https://www.nytimes.com/2023/10/16/world/asia/putin-china-xi.html",
+      "uri": "nyt://article/c84c860e-bd50-5647-ae33-a9494e2e1f1d",
+      "byline": "By David Pierson, Anatoly Kurmanaev and Keith Bradsher",
+      "item_type": "Article",
+      "updated_date": "2023-10-17T05:29:04-04:00",
+      "created_date": "2023-10-16T23:09:29-04:00",
+      "published_date": "2023-10-16T23:09:29-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "International Relations",
+        "United States International Relations",
+        "Israel-Gaza War (2023- )",
+        "Politics and Government",
+        "Belt and Road Initiative (China)"
+      ],
+      "org_facet": [
+        "Hamas"
+      ],
+      "per_facet": [
+        "Putin, Vladimir V",
+        "Xi Jinping"
+      ],
+      "geo_facet": [
+        "China",
+        "Moscow (Russia)",
+        "Russia"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/10/17/multimedia/01-hvbz/01-hvbz-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Vladimir V. Putin of Russia arriving in Beijing on Tuesday.",
+          "copyright": "Pool photo by Parker Song"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/10/17/multimedia/01-hvbz/01-hvbz-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Vladimir V. Putin of Russia arriving in Beijing on Tuesday.",
+          "copyright": "Pool photo by Parker Song"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/10/17/multimedia/01-hvbz/01-hvbz-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Vladimir V. Putin of Russia arriving in Beijing on Tuesday.",
+          "copyright": "Pool photo by Parker Song"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "China Invested $1 Trillion to Gain Global Influence. Can That Go On?",
+      "abstract": "Xi Jinping enhanced China’s sway in the world by lending money for infrastructure. Now he’s collecting debts and rethinking his signature aid initiative.",
+      "url": "https://www.nytimes.com/2023/10/16/business/chinas-belt-and-road-initiative-bri.html",
+      "uri": "nyt://article/99f919d4-08b0-5143-9f07-9927a3b2f152",
+      "byline": "By Keith Bradsher",
+      "item_type": "Article",
+      "updated_date": "2023-10-16T23:48:30-04:00",
+      "created_date": "2023-10-16T22:32:42-04:00",
+      "published_date": "2023-10-16T22:32:42-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Infrastructure (Public Works)",
+        "Foreign Investments",
+        "International Relations",
+        "Developing Countries",
+        "Economic Conditions and Trends"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Xi Jinping"
+      ],
+      "geo_facet": [
+        "China"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/10/16/multimedia/00China-BRI-01-cjkb/00China-BRI-01-cjkb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "High-speed trains at a main construction site in Indonesia. ",
+          "copyright": "Ulet Ifansasti for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/10/16/multimedia/00China-BRI-01-cjkb/00China-BRI-01-cjkb-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "High-speed trains at a main construction site in Indonesia. ",
+          "copyright": "Ulet Ifansasti for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/10/16/multimedia/00China-BRI-01-cjkb/00China-BRI-01-cjkb-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "High-speed trains at a main construction site in Indonesia. ",
+          "copyright": "Ulet Ifansasti for The New York Times"
+        }
+      ],
+      "short_url": ""
+    }
+  ]
+}
