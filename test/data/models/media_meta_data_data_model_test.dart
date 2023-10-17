@@ -6,8 +6,13 @@ import 'package:nytimestest/features/new_york_times/data/models/media_meta_data_
 import '../../helpers/json_reader.dart';
 
 void main() {
-  const tMediaMetaDataModel =
-      MediaMetaDataDataModel(url: "", height: 0, width: 0, format: "");
+  const tMediaMetaDataModel = MediaMetaDataDataModel(
+    url: "",
+    height: 0,
+    width: 0,
+    format: "",
+    type: "",
+  );
 
   group('from json', () {
     test(
@@ -15,8 +20,7 @@ void main() {
       () async {
         // arrange
         final Map<String, dynamic> jsonMap = json.decode(
-          readJson(
-              'helpers/dummy_data/dummy_media_meta_data_data_response.json'),
+          readJson('helpers/dummy_data/dummy_media_meta_data_data_response.json'),
         );
 
         // act
@@ -40,7 +44,8 @@ void main() {
           "url": "",
           "format": "",
           "height": 0,
-          "width": 0
+          "width": 0,
+          "type": "",
         };
         expect(result, equals(expectedJsonMap));
       },

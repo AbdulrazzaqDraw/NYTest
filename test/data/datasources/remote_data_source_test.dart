@@ -29,12 +29,12 @@ void main() {
       () async {
         // arrange
         when(
-          mockHttpClient.get("${MyUrls.mostPopular}7.json",
+          mockHttpClient.get("${MyUrls.mostPopular}home.json",
               queryParameters: {"api-key": Variables.apiKey}),
         ).thenAnswer(
           (_) async => dio.Response(
               requestOptions: dio.RequestOptions(
-                  path: "${MyUrls.mostPopular}7.json",
+                  path: "${MyUrls.mostPopular}home.json",
                   queryParameters: {"api-key": Variables.apiKey}),
               statusCode: 200,
               data: readJson('helpers/dummy_data/dummy_news_response.json')),
